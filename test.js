@@ -1,5 +1,3 @@
-
-
 var source = require('./source')
 var should = require('should')
 
